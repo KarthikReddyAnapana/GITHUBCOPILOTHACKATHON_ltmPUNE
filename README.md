@@ -1,31 +1,54 @@
-# GITHUBCOPILOTHACKATHON_ltmPUNE
-This is a folder of proof for all the achievements at Github Copilot Hackathon, LTM Pune.
-
-
 # GitHub Copilot Hackathon – LTM Pune
 
-## Achievement
-🏆 Participated in the GitHub Copilot Hackathon at LTM Pune
-🏅 Achieved Top 10 on the leaderboard
+A collection of proof and achievements from the **GitHub Copilot Hackathon at LTM Pune**.
 
-## Project
-Restaurant Ordering & Menu System
+## 🏆 Achievement
 
-## Team
-All-freshers team
+- Participated in the **GitHub Copilot Hackathon – LTM Pune**
+- Achieved a **Top 10 position on the leaderboard**
+- Collaborated as part of an **all-freshers team**
+- Designed and developed a **Restaurant Ordering & Menu System** under time constraints
 
-## Technologies
-Java | Spring Boot | React | AWS | ...
+## 💻 Project
 
-## Proof / Certificates
+### Restaurant Ordering & Menu System
+
+A full-stack application developed during the hackathon to demonstrate a practical restaurant ordering and menu management workflow.
+
+## 👥 Team
+
+**All-freshers team**
+
+## 🛠️ Technologies
+
+**Java · Spring Boot · React · AWS**
+
+## 📜 Proof / Certificate
+
 [View Certificate](./certificate.pdf)
 
-## Screenshots
+## 📸 Hackathon Photos
 
-## Hackathon Photos
+<table>
+  <tr>
+    <td><img src="./hackathon1.jpeg" width="280"></td>
+    <td><img src="./hackathon2.jpeg" width="280"></td>
+    <td><img src="./hackathon3.jpeg" width="280"></td>
+  </tr>
+  <tr>
+    <td><img src="./hackathon4.jpeg" width="280"></td>
+    <td><img src="./hackathon5.jpeg" width="280"></td>
+    <td><img src="./hackathon6.jpeg" width="280"></td>
+  </tr>
+  <tr>
+    <td><img src="./hackathon7.jpeg" width="280"></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
 
-| | | |
-|---|---|---|
-| ![Photo 1](./hackathon-1.jpeg) | ![Photo 2](./hackathon-2.jpeg) | ![Photo 3](./hackathon-3.jpeg) |
-| ![Photo 4](./hackathon-4.jpeg) | ![Photo 5](./hackathon-5.jpeg) | ![Photo 6](./hackathon-6.jpeg) |
-| ![Photo 7](./hackathon-7.jpeg) | | |
+---
+
+### 🔗 Verification
+
+This repository contains supporting proof, photographs, and documentation related to my participation in the **GitHub Copilot Hackathon – LTM Pune**.
