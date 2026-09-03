@@ -22,5 +22,10 @@ Java | Spring Boot | React | AWS | ...
 
 ## Screenshots
 
-![Hackathon](./screenshots/hackathon-1.png)
-![Leaderboard](./screenshots/leaderboard.png)
+## Hackathon Photos
+
+| | | |
+|---|---|---|
+| ![Photo 1](./hackathon-1.jpeg) | ![Photo 2](./hackathon-2.jpeg) | ![Photo 3](./hackathon-3.jpeg) |
+| ![Photo 4](./hackathon-4.jpeg) | ![Photo 5](./hackathon-5.jpeg) | ![Photo 6](./hackathon-6.jpeg) |
+| ![Photo 7](./hackathon-7.jpeg) | | |
